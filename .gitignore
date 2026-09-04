@@ -31,3 +31,6 @@ Thumbs.db
 # paths, so it is not.
 .claude/settings.local.json
 .claude/worktrees/
+
+# Vercel CLI link state — per-user, points at one account's project.
+.vercel
